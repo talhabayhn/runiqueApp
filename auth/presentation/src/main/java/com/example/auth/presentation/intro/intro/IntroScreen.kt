@@ -1,4 +1,4 @@
-package com.example.auth.presentation.intro
+package com.example.auth.presentation.intro.intro
 
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Column

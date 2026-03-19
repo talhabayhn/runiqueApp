@@ -1,4 +1,4 @@
-package com.example.auth.presentation.intro
+package com.example.auth.presentation.intro.intro
 
 
 sealed interface IntroAction {
