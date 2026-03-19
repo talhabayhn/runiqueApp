@@ -5,7 +5,7 @@ plugins {
 }
 
 android {
-    namespace = "com.plcoding.runique"
+    namespace = "com.example.runiqueapp"
 
     defaultConfig {
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
@@ -25,6 +25,7 @@ dependencies {
     // Coil
     implementation(libs.coil.compose)
 
+
     // Compose
     implementation(libs.androidx.activity.compose)
     implementation(libs.androidx.material.icons.extended)
@@ -42,6 +43,8 @@ dependencies {
 
     // Crypto
     implementation(libs.androidx.security.crypto.ktx)
+
+    implementation(libs.bundles.koin)
 
     api(libs.core)
 

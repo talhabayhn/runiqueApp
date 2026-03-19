@@ -1,3 +1,5 @@
+@file:OptIn(ExperimentalFoundationApi::class)
+
 package com.example.auth.presentation.intro.register
 
 import android.widget.Space
@@ -57,7 +59,6 @@ fun RegisterScreenRoot(
     )
 }
 
-@OptIn(ExperimentalFoundationApi::class)
 @Composable
 private fun RegisterScreen(
     state: RegisterState,
