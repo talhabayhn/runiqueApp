@@ -1,6 +1,5 @@
 package com.example.auth.presentation.intro.register
 
-
 import androidx.compose.foundation.ExperimentalFoundationApi
 import androidx.compose.foundation.text2.input.TextFieldState
 import com.example.auth.domain.PasswordValidationState
