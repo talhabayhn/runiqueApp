@@ -4,7 +4,7 @@ import android.app.Application
 import com.example.auth.data.di.authDataModule
 import com.example.auth.presentation.intro.di.authViewModelModule
 import com.example.core.data.BuildConfig
-import com.example.core.data.networking.di.coreDataModule
+import com.example.core.data.di.coreDataModule
 import com.example.runiqueapp.di.appModule
 import org.koin.android.ext.koin.androidContext
 import org.koin.android.ext.koin.androidLogger

@@ -3,7 +3,7 @@ plugins {
 }
 
 android {
-    namespace = "com.plcoding.core.presentation.designsystem"
+    namespace = "com.example.core.presentation.designsystem"
 }
 
 dependencies {
