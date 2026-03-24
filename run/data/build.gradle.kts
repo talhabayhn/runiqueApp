@@ -3,7 +3,7 @@ plugins {
 }
 
 android {
-    namespace = "com.plcoding.run.data"
+    namespace = "com.example.run.data"
 }
 
 dependencies {

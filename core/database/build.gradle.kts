@@ -4,7 +4,7 @@ plugins {
 }
 
 android {
-    namespace = "com.plcoding.core.database"
+    namespace = "com.example.core.database"
 }
 
 dependencies {

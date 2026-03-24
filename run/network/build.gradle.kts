@@ -4,7 +4,7 @@ plugins {
 }
 
 android {
-    namespace = "com.plcoding.run.network"
+    namespace = "com.example.run.network"
 }
 
 dependencies {
