@@ -3,7 +3,7 @@ plugins {
 }
 
 android {
-    namespace = "com.plcoding.run.presentation"
+    namespace = "com.example.run.presentation"
 }
 
 dependencies {
